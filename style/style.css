@@ -1,7 +1,6 @@
 .search-bar {
-  margin: 50%;
+  margin: 20px;
   text-align: center;
-  display: block;
 }
 
 .search-bar input {
